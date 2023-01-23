@@ -1,0 +1,28 @@
+{
+  "name": "project-4-bookmanagement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashish-Rayalwar/Project-4-BookManagement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashish-Rayalwar/Project-4-BookManagement/issues"
+  },
+  "homepage": "https://github.com/Ashish-Rayalwar/Project-4-BookManagement#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.4",
+    "nodemon": "^2.0.20",
+    "validator": "^13.7.0"
+  }
+}
